@@ -1,0 +1,3 @@
+[submodule "src/main/java/br/cidade"]
+	path = src/main/java/br/cidade
+	url = https://github.com/ProdutoInova/modulo-cidade
