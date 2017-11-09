@@ -5,7 +5,7 @@
  */
 package br.principal.gui;
 
-//import br.cidade.gui.CadCidade;
+import br.cidade.gui.CadCidade;
 
 /**
  *
@@ -73,9 +73,9 @@ public class Principal extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        //CadCidade ci = new CadCidade();
-        //jDesktopPane1.add(ci);
-        //ci.show();
+        CadCidade ci = new CadCidade();
+        jDesktopPane1.add(ci);
+        ci.show();
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
