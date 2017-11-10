@@ -5,7 +5,7 @@
  */
 package br.principal.gui;
 
-import br.cidade.gui.CadCidade;
+import br.cidade.view.CadCidade;
 
 /**
  *
